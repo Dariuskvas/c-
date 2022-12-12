@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hs2GHT7TFF0gmAs2gffBlvRIGA/haqeV9oVA1z5lcxTzMoPOwzS4ympiWJrOPt5jVtKzo0fP/Kc+Q3+hDUG1Qw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Darius\\Desktop\\pr kursai\\prkursai-1\\C Sharp\\Pamoka7-4 unitCode\\Pamoka7-4\\Pamoka7-4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Darius\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Darius\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Darius\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Darius\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,8 @@
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Pamoka7-4\Pamoka7-4\bin\Debug\Pamoka7-4.exe.config
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Pamoka7-4\Pamoka7-4\bin\Debug\Pamoka7-4.exe
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Pamoka7-4\Pamoka7-4\bin\Debug\Pamoka7-4.pdb
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Pamoka7-4\Pamoka7-4\obj\Debug\Pamoka7-4.csproj.AssemblyReference.cache
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Pamoka7-4\Pamoka7-4\obj\Debug\Pamoka7-4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Pamoka7-4\Pamoka7-4\obj\Debug\Pamoka7-4.csproj.CoreCompileInputs.cache
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Pamoka7-4\Pamoka7-4\obj\Debug\Pamoka7-4.exe
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Pamoka7-4\Pamoka7-4\obj\Debug\Pamoka7-4.pdb

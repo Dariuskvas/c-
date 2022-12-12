@@ -1,0 +1,2 @@
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Pamoka7-4\Pamoka7-4Tests\obj\Debug\Pamoka7-4Tests.csproj.AssemblyReference.cache
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Pamoka7-4\Pamoka7-4Tests\obj\Debug\Pamoka7-4Tests.csproj.CoreCompileInputs.cache
