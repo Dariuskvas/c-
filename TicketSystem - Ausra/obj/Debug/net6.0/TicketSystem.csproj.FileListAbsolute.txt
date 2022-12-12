@@ -1,0 +1,15 @@
+C:\develop\studies\1st_period\C#\TicketSystem\obj\Debug\net6.0\TicketSystem.csproj.AssemblyReference.cache
+C:\develop\studies\1st_period\C#\TicketSystem\obj\Debug\net6.0\TicketSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\develop\studies\1st_period\C#\TicketSystem\obj\Debug\net6.0\TicketSystem.AssemblyInfoInputs.cache
+C:\develop\studies\1st_period\C#\TicketSystem\obj\Debug\net6.0\TicketSystem.AssemblyInfo.cs
+C:\develop\studies\1st_period\C#\TicketSystem\obj\Debug\net6.0\TicketSystem.csproj.CoreCompileInputs.cache
+C:\develop\studies\1st_period\C#\TicketSystem\bin\Debug\net6.0\TicketSystem.exe
+C:\develop\studies\1st_period\C#\TicketSystem\bin\Debug\net6.0\TicketSystem.deps.json
+C:\develop\studies\1st_period\C#\TicketSystem\bin\Debug\net6.0\TicketSystem.runtimeconfig.json
+C:\develop\studies\1st_period\C#\TicketSystem\bin\Debug\net6.0\TicketSystem.dll
+C:\develop\studies\1st_period\C#\TicketSystem\bin\Debug\net6.0\TicketSystem.pdb
+C:\develop\studies\1st_period\C#\TicketSystem\obj\Debug\net6.0\TicketSystem.dll
+C:\develop\studies\1st_period\C#\TicketSystem\obj\Debug\net6.0\refint\TicketSystem.dll
+C:\develop\studies\1st_period\C#\TicketSystem\obj\Debug\net6.0\TicketSystem.pdb
+C:\develop\studies\1st_period\C#\TicketSystem\obj\Debug\net6.0\TicketSystem.genruntimeconfig.cache
+C:\develop\studies\1st_period\C#\TicketSystem\obj\Debug\net6.0\ref\TicketSystem.dll
