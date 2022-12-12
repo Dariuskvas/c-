@@ -1,0 +1,10 @@
+Lietuva,true
+Prancuzija,true
+Vokietija,true
+Kinija,false
+Indija,false
+Turkija,false
+Lenkija,true
+Ispanija,true
+JAV,false
+Kanada,false

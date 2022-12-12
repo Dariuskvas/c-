@@ -1,0 +1,7 @@
+Boeing 747,15000,good
+Boeing 777,9480,normal
+Boeing 727,5000,good
+Bombardier CRJ1000,3050,normal
+Airbus A320,6940,normal
+Boeing 737,6510,bad
+Cessna 172,1289,bad
