@@ -1,0 +1,30 @@
+C:\Users\darius.k\OneDrive - Boreo Oyj\Desktop\laikinai\C Sharp\Creat Object\Creat Object\bin\Debug\net6.0\Creat Object.exe
+C:\Users\darius.k\OneDrive - Boreo Oyj\Desktop\laikinai\C Sharp\Creat Object\Creat Object\bin\Debug\net6.0\Creat Object.deps.json
+C:\Users\darius.k\OneDrive - Boreo Oyj\Desktop\laikinai\C Sharp\Creat Object\Creat Object\bin\Debug\net6.0\Creat Object.runtimeconfig.json
+C:\Users\darius.k\OneDrive - Boreo Oyj\Desktop\laikinai\C Sharp\Creat Object\Creat Object\bin\Debug\net6.0\Creat Object.dll
+C:\Users\darius.k\OneDrive - Boreo Oyj\Desktop\laikinai\C Sharp\Creat Object\Creat Object\bin\Debug\net6.0\Creat Object.pdb
+C:\Users\darius.k\OneDrive - Boreo Oyj\Desktop\laikinai\C Sharp\Creat Object\Creat Object\obj\Debug\net6.0\Creat Object.csproj.AssemblyReference.cache
+C:\Users\darius.k\OneDrive - Boreo Oyj\Desktop\laikinai\C Sharp\Creat Object\Creat Object\obj\Debug\net6.0\Creat Object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darius.k\OneDrive - Boreo Oyj\Desktop\laikinai\C Sharp\Creat Object\Creat Object\obj\Debug\net6.0\Creat Object.AssemblyInfoInputs.cache
+C:\Users\darius.k\OneDrive - Boreo Oyj\Desktop\laikinai\C Sharp\Creat Object\Creat Object\obj\Debug\net6.0\Creat Object.AssemblyInfo.cs
+C:\Users\darius.k\OneDrive - Boreo Oyj\Desktop\laikinai\C Sharp\Creat Object\Creat Object\obj\Debug\net6.0\Creat Object.csproj.CoreCompileInputs.cache
+C:\Users\darius.k\OneDrive - Boreo Oyj\Desktop\laikinai\C Sharp\Creat Object\Creat Object\obj\Debug\net6.0\Creat Object.dll
+C:\Users\darius.k\OneDrive - Boreo Oyj\Desktop\laikinai\C Sharp\Creat Object\Creat Object\obj\Debug\net6.0\refint\Creat Object.dll
+C:\Users\darius.k\OneDrive - Boreo Oyj\Desktop\laikinai\C Sharp\Creat Object\Creat Object\obj\Debug\net6.0\Creat Object.pdb
+C:\Users\darius.k\OneDrive - Boreo Oyj\Desktop\laikinai\C Sharp\Creat Object\Creat Object\obj\Debug\net6.0\Creat Object.genruntimeconfig.cache
+C:\Users\darius.k\OneDrive - Boreo Oyj\Desktop\laikinai\C Sharp\Creat Object\Creat Object\obj\Debug\net6.0\ref\Creat Object.dll
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Creat Object\Creat Object\obj\Debug\net6.0\Creat Object.csproj.AssemblyReference.cache
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Creat Object\Creat Object\obj\Debug\net6.0\Creat Object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Creat Object\Creat Object\obj\Debug\net6.0\Creat Object.AssemblyInfoInputs.cache
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Creat Object\Creat Object\obj\Debug\net6.0\Creat Object.AssemblyInfo.cs
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Creat Object\Creat Object\obj\Debug\net6.0\Creat Object.csproj.CoreCompileInputs.cache
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Creat Object\Creat Object\obj\Debug\net6.0\Creat Object.dll
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Creat Object\Creat Object\obj\Debug\net6.0\refint\Creat Object.dll
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Creat Object\Creat Object\obj\Debug\net6.0\Creat Object.pdb
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Creat Object\Creat Object\bin\Debug\net6.0\Creat Object.exe
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Creat Object\Creat Object\bin\Debug\net6.0\Creat Object.deps.json
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Creat Object\Creat Object\bin\Debug\net6.0\Creat Object.runtimeconfig.json
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Creat Object\Creat Object\bin\Debug\net6.0\Creat Object.dll
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Creat Object\Creat Object\bin\Debug\net6.0\Creat Object.pdb
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Creat Object\Creat Object\obj\Debug\net6.0\Creat Object.genruntimeconfig.cache
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Creat Object\Creat Object\obj\Debug\net6.0\ref\Creat Object.dll
