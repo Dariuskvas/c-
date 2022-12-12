@@ -1,0 +1,15 @@
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Pamoka8 GET SET encapsulation\Pamoka8 GET SET encapsulation\obj\Debug\net7.0\Pamoka8 GET SET encapsulation.csproj.AssemblyReference.cache
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Pamoka8 GET SET encapsulation\Pamoka8 GET SET encapsulation\obj\Debug\net7.0\Pamoka8 GET SET encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Pamoka8 GET SET encapsulation\Pamoka8 GET SET encapsulation\obj\Debug\net7.0\Pamoka8 GET SET encapsulation.AssemblyInfoInputs.cache
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Pamoka8 GET SET encapsulation\Pamoka8 GET SET encapsulation\obj\Debug\net7.0\Pamoka8 GET SET encapsulation.AssemblyInfo.cs
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Pamoka8 GET SET encapsulation\Pamoka8 GET SET encapsulation\obj\Debug\net7.0\Pamoka8 GET SET encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Pamoka8 GET SET encapsulation\Pamoka8 GET SET encapsulation\bin\Debug\net7.0\Pamoka8 GET SET encapsulation.exe
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Pamoka8 GET SET encapsulation\Pamoka8 GET SET encapsulation\bin\Debug\net7.0\Pamoka8 GET SET encapsulation.deps.json
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Pamoka8 GET SET encapsulation\Pamoka8 GET SET encapsulation\bin\Debug\net7.0\Pamoka8 GET SET encapsulation.runtimeconfig.json
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Pamoka8 GET SET encapsulation\Pamoka8 GET SET encapsulation\bin\Debug\net7.0\Pamoka8 GET SET encapsulation.dll
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Pamoka8 GET SET encapsulation\Pamoka8 GET SET encapsulation\bin\Debug\net7.0\Pamoka8 GET SET encapsulation.pdb
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Pamoka8 GET SET encapsulation\Pamoka8 GET SET encapsulation\obj\Debug\net7.0\Pamoka8 GET SET encapsulation.dll
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Pamoka8 GET SET encapsulation\Pamoka8 GET SET encapsulation\obj\Debug\net7.0\refint\Pamoka8 GET SET encapsulation.dll
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Pamoka8 GET SET encapsulation\Pamoka8 GET SET encapsulation\obj\Debug\net7.0\Pamoka8 GET SET encapsulation.pdb
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Pamoka8 GET SET encapsulation\Pamoka8 GET SET encapsulation\obj\Debug\net7.0\Pamoka8 GET SET encapsulation.genruntimeconfig.cache
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Pamoka8 GET SET encapsulation\Pamoka8 GET SET encapsulation\obj\Debug\net7.0\ref\Pamoka8 GET SET encapsulation.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Pamoka8-2 GET SET encapsulation/1.0.0": {
+        "runtime": {
+          "Pamoka8-2 GET SET encapsulation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pamoka8-2 GET SET encapsulation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

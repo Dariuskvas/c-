@@ -1,0 +1,12 @@
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Paskaita8-1 GET SET encapsulation\Pamoka08-1.BookStruct\bin\Debug\net7.0\Pamoka08-1.BookStruct.deps.json
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Paskaita8-1 GET SET encapsulation\Pamoka08-1.BookStruct\bin\Debug\net7.0\Pamoka08-1.BookStruct.dll
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Paskaita8-1 GET SET encapsulation\Pamoka08-1.BookStruct\bin\Debug\net7.0\Pamoka08-1.BookStruct.pdb
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Paskaita8-1 GET SET encapsulation\Pamoka08-1.BookStruct\obj\Debug\net7.0\Pamoka08-1.BookStruct.csproj.AssemblyReference.cache
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Paskaita8-1 GET SET encapsulation\Pamoka08-1.BookStruct\obj\Debug\net7.0\Pamoka08-1.BookStruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Paskaita8-1 GET SET encapsulation\Pamoka08-1.BookStruct\obj\Debug\net7.0\Pamoka08-1.BookStruct.AssemblyInfoInputs.cache
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Paskaita8-1 GET SET encapsulation\Pamoka08-1.BookStruct\obj\Debug\net7.0\Pamoka08-1.BookStruct.AssemblyInfo.cs
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Paskaita8-1 GET SET encapsulation\Pamoka08-1.BookStruct\obj\Debug\net7.0\Pamoka08-1.BookStruct.csproj.CoreCompileInputs.cache
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Paskaita8-1 GET SET encapsulation\Pamoka08-1.BookStruct\obj\Debug\net7.0\Pamoka08-1.BookStruct.dll
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Paskaita8-1 GET SET encapsulation\Pamoka08-1.BookStruct\obj\Debug\net7.0\refint\Pamoka08-1.BookStruct.dll
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Paskaita8-1 GET SET encapsulation\Pamoka08-1.BookStruct\obj\Debug\net7.0\Pamoka08-1.BookStruct.pdb
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Paskaita8-1 GET SET encapsulation\Pamoka08-1.BookStruct\obj\Debug\net7.0\ref\Pamoka08-1.BookStruct.dll

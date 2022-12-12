@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pamoka8 GET SET encapsulation", "Pamoka8 GET SET encapsulation\Pamoka8 GET SET encapsulation.csproj", "{EDAAD66D-892B-487F-AC09-687B4AAD1F4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDAAD66D-892B-487F-AC09-687B4AAD1F4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDAAD66D-892B-487F-AC09-687B4AAD1F4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDAAD66D-892B-487F-AC09-687B4AAD1F4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDAAD66D-892B-487F-AC09-687B4AAD1F4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEE07CDC-10E9-4B46-9267-D419BA1754F8}
+	EndGlobalSection
+EndGlobal
