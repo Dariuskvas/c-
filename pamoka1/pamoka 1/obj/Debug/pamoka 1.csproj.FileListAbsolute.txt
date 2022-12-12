@@ -1,0 +1,16 @@
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C-Sharp\pamoka 1\pamoka 1\bin\Debug\pamoka 1.exe.config
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C-Sharp\pamoka 1\pamoka 1\bin\Debug\pamoka 1.exe
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C-Sharp\pamoka 1\pamoka 1\bin\Debug\pamoka 1.pdb
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C-Sharp\pamoka 1\pamoka 1\obj\Debug\pamoka 1.csproj.AssemblyReference.cache
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C-Sharp\pamoka 1\pamoka 1\obj\Debug\pamoka 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C-Sharp\pamoka 1\pamoka 1\obj\Debug\pamoka 1.csproj.CoreCompileInputs.cache
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C-Sharp\pamoka 1\pamoka 1\obj\Debug\pamoka 1.exe
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C-Sharp\pamoka 1\pamoka 1\obj\Debug\pamoka 1.pdb
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\pamoka 1\pamoka 1\bin\Debug\pamoka 1.exe.config
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\pamoka 1\pamoka 1\bin\Debug\pamoka 1.exe
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\pamoka 1\pamoka 1\bin\Debug\pamoka 1.pdb
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\pamoka 1\pamoka 1\obj\Debug\pamoka 1.csproj.AssemblyReference.cache
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\pamoka 1\pamoka 1\obj\Debug\pamoka 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\pamoka 1\pamoka 1\obj\Debug\pamoka 1.csproj.CoreCompileInputs.cache
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\pamoka 1\pamoka 1\obj\Debug\pamoka 1.exe
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\pamoka 1\pamoka 1\obj\Debug\pamoka 1.pdb
