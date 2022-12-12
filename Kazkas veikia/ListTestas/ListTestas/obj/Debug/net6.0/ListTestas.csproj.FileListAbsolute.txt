@@ -1,0 +1,15 @@
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\ListTestas\ListTestas\bin\Debug\net6.0\ListTestas.exe
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\ListTestas\ListTestas\bin\Debug\net6.0\ListTestas.deps.json
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\ListTestas\ListTestas\bin\Debug\net6.0\ListTestas.runtimeconfig.json
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\ListTestas\ListTestas\bin\Debug\net6.0\ListTestas.dll
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\ListTestas\ListTestas\bin\Debug\net6.0\ListTestas.pdb
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\ListTestas\ListTestas\obj\Debug\net6.0\ListTestas.csproj.AssemblyReference.cache
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\ListTestas\ListTestas\obj\Debug\net6.0\ListTestas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\ListTestas\ListTestas\obj\Debug\net6.0\ListTestas.AssemblyInfoInputs.cache
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\ListTestas\ListTestas\obj\Debug\net6.0\ListTestas.AssemblyInfo.cs
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\ListTestas\ListTestas\obj\Debug\net6.0\ListTestas.csproj.CoreCompileInputs.cache
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\ListTestas\ListTestas\obj\Debug\net6.0\ListTestas.dll
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\ListTestas\ListTestas\obj\Debug\net6.0\refint\ListTestas.dll
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\ListTestas\ListTestas\obj\Debug\net6.0\ListTestas.pdb
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\ListTestas\ListTestas\obj\Debug\net6.0\ListTestas.genruntimeconfig.cache
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\ListTestas\ListTestas\obj\Debug\net6.0\ref\ListTestas.dll

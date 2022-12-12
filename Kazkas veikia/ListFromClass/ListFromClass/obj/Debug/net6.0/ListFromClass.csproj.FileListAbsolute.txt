@@ -1,0 +1,30 @@
+C:\Users\darius.k\source\repos\ListFromClass\ListFromClass\bin\Debug\net6.0\ListFromClass.exe
+C:\Users\darius.k\source\repos\ListFromClass\ListFromClass\bin\Debug\net6.0\ListFromClass.deps.json
+C:\Users\darius.k\source\repos\ListFromClass\ListFromClass\bin\Debug\net6.0\ListFromClass.runtimeconfig.json
+C:\Users\darius.k\source\repos\ListFromClass\ListFromClass\bin\Debug\net6.0\ListFromClass.dll
+C:\Users\darius.k\source\repos\ListFromClass\ListFromClass\bin\Debug\net6.0\ListFromClass.pdb
+C:\Users\darius.k\source\repos\ListFromClass\ListFromClass\obj\Debug\net6.0\ListFromClass.csproj.AssemblyReference.cache
+C:\Users\darius.k\source\repos\ListFromClass\ListFromClass\obj\Debug\net6.0\ListFromClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darius.k\source\repos\ListFromClass\ListFromClass\obj\Debug\net6.0\ListFromClass.AssemblyInfoInputs.cache
+C:\Users\darius.k\source\repos\ListFromClass\ListFromClass\obj\Debug\net6.0\ListFromClass.AssemblyInfo.cs
+C:\Users\darius.k\source\repos\ListFromClass\ListFromClass\obj\Debug\net6.0\ListFromClass.csproj.CoreCompileInputs.cache
+C:\Users\darius.k\source\repos\ListFromClass\ListFromClass\obj\Debug\net6.0\ListFromClass.dll
+C:\Users\darius.k\source\repos\ListFromClass\ListFromClass\obj\Debug\net6.0\refint\ListFromClass.dll
+C:\Users\darius.k\source\repos\ListFromClass\ListFromClass\obj\Debug\net6.0\ListFromClass.pdb
+C:\Users\darius.k\source\repos\ListFromClass\ListFromClass\obj\Debug\net6.0\ListFromClass.genruntimeconfig.cache
+C:\Users\darius.k\source\repos\ListFromClass\ListFromClass\obj\Debug\net6.0\ref\ListFromClass.dll
+C:\Users\darius.k\OneDrive - Boreo Oyj\Desktop\laikinai\C Sharp\ListFromClass\ListFromClass\obj\Debug\net6.0\ListFromClass.csproj.AssemblyReference.cache
+C:\Users\darius.k\OneDrive - Boreo Oyj\Desktop\laikinai\C Sharp\ListFromClass\ListFromClass\obj\Debug\net6.0\ListFromClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darius.k\OneDrive - Boreo Oyj\Desktop\laikinai\C Sharp\ListFromClass\ListFromClass\obj\Debug\net6.0\ListFromClass.AssemblyInfoInputs.cache
+C:\Users\darius.k\OneDrive - Boreo Oyj\Desktop\laikinai\C Sharp\ListFromClass\ListFromClass\obj\Debug\net6.0\ListFromClass.AssemblyInfo.cs
+C:\Users\darius.k\OneDrive - Boreo Oyj\Desktop\laikinai\C Sharp\ListFromClass\ListFromClass\obj\Debug\net6.0\ListFromClass.csproj.CoreCompileInputs.cache
+C:\Users\darius.k\OneDrive - Boreo Oyj\Desktop\laikinai\C Sharp\ListFromClass\ListFromClass\obj\Debug\net6.0\ListFromClass.dll
+C:\Users\darius.k\OneDrive - Boreo Oyj\Desktop\laikinai\C Sharp\ListFromClass\ListFromClass\obj\Debug\net6.0\refint\ListFromClass.dll
+C:\Users\darius.k\OneDrive - Boreo Oyj\Desktop\laikinai\C Sharp\ListFromClass\ListFromClass\obj\Debug\net6.0\ListFromClass.pdb
+C:\Users\darius.k\OneDrive - Boreo Oyj\Desktop\laikinai\C Sharp\ListFromClass\ListFromClass\bin\Debug\net6.0\ListFromClass.exe
+C:\Users\darius.k\OneDrive - Boreo Oyj\Desktop\laikinai\C Sharp\ListFromClass\ListFromClass\bin\Debug\net6.0\ListFromClass.deps.json
+C:\Users\darius.k\OneDrive - Boreo Oyj\Desktop\laikinai\C Sharp\ListFromClass\ListFromClass\bin\Debug\net6.0\ListFromClass.runtimeconfig.json
+C:\Users\darius.k\OneDrive - Boreo Oyj\Desktop\laikinai\C Sharp\ListFromClass\ListFromClass\bin\Debug\net6.0\ListFromClass.dll
+C:\Users\darius.k\OneDrive - Boreo Oyj\Desktop\laikinai\C Sharp\ListFromClass\ListFromClass\bin\Debug\net6.0\ListFromClass.pdb
+C:\Users\darius.k\OneDrive - Boreo Oyj\Desktop\laikinai\C Sharp\ListFromClass\ListFromClass\obj\Debug\net6.0\ListFromClass.genruntimeconfig.cache
+C:\Users\darius.k\OneDrive - Boreo Oyj\Desktop\laikinai\C Sharp\ListFromClass\ListFromClass\obj\Debug\net6.0\ref\ListFromClass.dll
