@@ -1,0 +1,15 @@
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Pamoka3\Pamoka3\obj\Debug\net6.0\Pamoka3.csproj.AssemblyReference.cache
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Pamoka3\Pamoka3\obj\Debug\net6.0\Pamoka3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Pamoka3\Pamoka3\obj\Debug\net6.0\Pamoka3.AssemblyInfoInputs.cache
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Pamoka3\Pamoka3\obj\Debug\net6.0\Pamoka3.AssemblyInfo.cs
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Pamoka3\Pamoka3\obj\Debug\net6.0\Pamoka3.csproj.CoreCompileInputs.cache
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Pamoka3\Pamoka3\bin\Debug\net6.0\Pamoka3.exe
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Pamoka3\Pamoka3\bin\Debug\net6.0\Pamoka3.deps.json
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Pamoka3\Pamoka3\bin\Debug\net6.0\Pamoka3.runtimeconfig.json
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Pamoka3\Pamoka3\bin\Debug\net6.0\Pamoka3.dll
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Pamoka3\Pamoka3\bin\Debug\net6.0\Pamoka3.pdb
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Pamoka3\Pamoka3\obj\Debug\net6.0\Pamoka3.dll
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Pamoka3\Pamoka3\obj\Debug\net6.0\refint\Pamoka3.dll
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Pamoka3\Pamoka3\obj\Debug\net6.0\Pamoka3.pdb
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Pamoka3\Pamoka3\obj\Debug\net6.0\Pamoka3.genruntimeconfig.cache
+C:\Users\Darius\Desktop\pr kursai\prkursai-1\C Sharp\Pamoka3\Pamoka3\obj\Debug\net6.0\ref\Pamoka3.dll
