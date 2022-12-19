@@ -36,17 +36,10 @@ namespace Savarankiskas1
 
         public void cxxx(IEnumerable<Aircraft> listsas)
         {
-            CreateHTMLTable createHTMLTable = new CreateHTMLTable();
-
-            if (listsas == ReportRepository.fromEU)
-                createHTMLTable.createHTMLHead("Lektuvai is EU");
-            else
-                createHTMLTable.createHTMLHead("Lektuvai ne is EU");
-
             foreach (var plane2 in listsas)
             {
                 int x1 = plane2.id;
-                string x2 = ModelRespository.Retrieve(plane2.modelID).planeModel;
+                string x2 = ModelRespository.Retrieve(1).planeModel;
                 string x3 = CompanysRespository.Retrieve(plane2.companyID).companyName;
                 string x4 = CountryRespository.Retrieve(plane2.countryID).countryName;
                 Boolean x5 = CountryRespository.Retrieve(plane2.countryID).fromEU;

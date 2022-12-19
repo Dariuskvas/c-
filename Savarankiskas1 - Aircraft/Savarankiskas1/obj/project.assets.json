@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Darius\\Desktop\\pr kursai\\c#\\Savarankiskas1\\Savarankiskas1\\Savarankiskas1.csproj",
+      "projectUniqueName": "C:\\Users\\Darius\\Desktop\\pr kursai\\c#2\\Savarankiskas1 - Aircraft\\Savarankiskas1\\Savarankiskas1.csproj",
       "projectName": "Savarankiskas1",
-      "projectPath": "C:\\Users\\Darius\\Desktop\\pr kursai\\c#\\Savarankiskas1\\Savarankiskas1\\Savarankiskas1.csproj",
+      "projectPath": "C:\\Users\\Darius\\Desktop\\pr kursai\\c#2\\Savarankiskas1 - Aircraft\\Savarankiskas1\\Savarankiskas1.csproj",
       "packagesPath": "C:\\Users\\Darius\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Darius\\Desktop\\pr kursai\\c#\\Savarankiskas1\\Savarankiskas1\\obj\\",
+      "outputPath": "C:\\Users\\Darius\\Desktop\\pr kursai\\c#2\\Savarankiskas1 - Aircraft\\Savarankiskas1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Darius\\AppData\\Roaming\\NuGet\\NuGet.Config",

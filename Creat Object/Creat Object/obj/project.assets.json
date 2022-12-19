@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Darius\\Desktop\\pr kursai\\prkursai-1\\C Sharp\\Creat Object\\Creat Object\\Creat Object.csproj",
+      "projectUniqueName": "C:\\Users\\Darius\\Desktop\\pr kursai\\c#2\\Creat Object\\Creat Object\\Creat Object.csproj",
       "projectName": "Creat Object",
-      "projectPath": "C:\\Users\\Darius\\Desktop\\pr kursai\\prkursai-1\\C Sharp\\Creat Object\\Creat Object\\Creat Object.csproj",
+      "projectPath": "C:\\Users\\Darius\\Desktop\\pr kursai\\c#2\\Creat Object\\Creat Object\\Creat Object.csproj",
       "packagesPath": "C:\\Users\\Darius\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Darius\\Desktop\\pr kursai\\prkursai-1\\C Sharp\\Creat Object\\Creat Object\\obj\\",
+      "outputPath": "C:\\Users\\Darius\\Desktop\\pr kursai\\c#2\\Creat Object\\Creat Object\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Darius\\AppData\\Roaming\\NuGet\\NuGet.Config",

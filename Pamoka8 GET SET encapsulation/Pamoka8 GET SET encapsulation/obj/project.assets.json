@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Darius\\Desktop\\pr kursai\\prkursai-1\\C Sharp\\Pamoka8 GET SET encapsulation\\Pamoka8 GET SET encapsulation\\Pamoka8 GET SET encapsulation.csproj",
+      "projectUniqueName": "C:\\Users\\Darius\\Desktop\\pr kursai\\c#2\\Pamoka8 GET SET encapsulation\\Pamoka8 GET SET encapsulation\\Pamoka8 GET SET encapsulation.csproj",
       "projectName": "Pamoka8 GET SET encapsulation",
-      "projectPath": "C:\\Users\\Darius\\Desktop\\pr kursai\\prkursai-1\\C Sharp\\Pamoka8 GET SET encapsulation\\Pamoka8 GET SET encapsulation\\Pamoka8 GET SET encapsulation.csproj",
+      "projectPath": "C:\\Users\\Darius\\Desktop\\pr kursai\\c#2\\Pamoka8 GET SET encapsulation\\Pamoka8 GET SET encapsulation\\Pamoka8 GET SET encapsulation.csproj",
       "packagesPath": "C:\\Users\\Darius\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Darius\\Desktop\\pr kursai\\prkursai-1\\C Sharp\\Pamoka8 GET SET encapsulation\\Pamoka8 GET SET encapsulation\\obj\\",
+      "outputPath": "C:\\Users\\Darius\\Desktop\\pr kursai\\c#2\\Pamoka8 GET SET encapsulation\\Pamoka8 GET SET encapsulation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Darius\\AppData\\Roaming\\NuGet\\NuGet.Config",

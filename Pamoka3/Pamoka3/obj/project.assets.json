@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Darius\\Desktop\\pr kursai\\prkursai-1\\C Sharp\\Pamoka3\\Pamoka3\\Pamoka3.csproj",
+      "projectUniqueName": "C:\\Users\\Darius\\Desktop\\pr kursai\\c#2\\Pamoka3\\Pamoka3\\Pamoka3.csproj",
       "projectName": "Pamoka3",
-      "projectPath": "C:\\Users\\Darius\\Desktop\\pr kursai\\prkursai-1\\C Sharp\\Pamoka3\\Pamoka3\\Pamoka3.csproj",
+      "projectPath": "C:\\Users\\Darius\\Desktop\\pr kursai\\c#2\\Pamoka3\\Pamoka3\\Pamoka3.csproj",
       "packagesPath": "C:\\Users\\Darius\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Darius\\Desktop\\pr kursai\\prkursai-1\\C Sharp\\Pamoka3\\Pamoka3\\obj\\",
+      "outputPath": "C:\\Users\\Darius\\Desktop\\pr kursai\\c#2\\Pamoka3\\Pamoka3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Darius\\AppData\\Roaming\\NuGet\\NuGet.Config",

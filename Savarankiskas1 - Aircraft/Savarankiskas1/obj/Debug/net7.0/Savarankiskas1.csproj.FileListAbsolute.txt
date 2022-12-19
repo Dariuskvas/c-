@@ -28,3 +28,18 @@ C:\Users\Darius\Desktop\pr kursai\c#\Savarankiskas1\Savarankiskas1\obj\Debug\net
 C:\Users\Darius\Desktop\pr kursai\c#\Savarankiskas1\Savarankiskas1\obj\Debug\net7.0\Savarankiskas1.pdb
 C:\Users\Darius\Desktop\pr kursai\c#\Savarankiskas1\Savarankiskas1\obj\Debug\net7.0\Savarankiskas1.genruntimeconfig.cache
 C:\Users\Darius\Desktop\pr kursai\c#\Savarankiskas1\Savarankiskas1\obj\Debug\net7.0\ref\Savarankiskas1.dll
+C:\Users\Darius\Desktop\pr kursai\c#2\Savarankiskas1 - Aircraft\Savarankiskas1\bin\Debug\net7.0\Savarankiskas1.exe
+C:\Users\Darius\Desktop\pr kursai\c#2\Savarankiskas1 - Aircraft\Savarankiskas1\bin\Debug\net7.0\Savarankiskas1.deps.json
+C:\Users\Darius\Desktop\pr kursai\c#2\Savarankiskas1 - Aircraft\Savarankiskas1\bin\Debug\net7.0\Savarankiskas1.runtimeconfig.json
+C:\Users\Darius\Desktop\pr kursai\c#2\Savarankiskas1 - Aircraft\Savarankiskas1\bin\Debug\net7.0\Savarankiskas1.dll
+C:\Users\Darius\Desktop\pr kursai\c#2\Savarankiskas1 - Aircraft\Savarankiskas1\bin\Debug\net7.0\Savarankiskas1.pdb
+C:\Users\Darius\Desktop\pr kursai\c#2\Savarankiskas1 - Aircraft\Savarankiskas1\obj\Debug\net7.0\Savarankiskas1.csproj.AssemblyReference.cache
+C:\Users\Darius\Desktop\pr kursai\c#2\Savarankiskas1 - Aircraft\Savarankiskas1\obj\Debug\net7.0\Savarankiskas1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darius\Desktop\pr kursai\c#2\Savarankiskas1 - Aircraft\Savarankiskas1\obj\Debug\net7.0\Savarankiskas1.AssemblyInfoInputs.cache
+C:\Users\Darius\Desktop\pr kursai\c#2\Savarankiskas1 - Aircraft\Savarankiskas1\obj\Debug\net7.0\Savarankiskas1.AssemblyInfo.cs
+C:\Users\Darius\Desktop\pr kursai\c#2\Savarankiskas1 - Aircraft\Savarankiskas1\obj\Debug\net7.0\Savarankiskas1.csproj.CoreCompileInputs.cache
+C:\Users\Darius\Desktop\pr kursai\c#2\Savarankiskas1 - Aircraft\Savarankiskas1\obj\Debug\net7.0\Savarankiskas1.dll
+C:\Users\Darius\Desktop\pr kursai\c#2\Savarankiskas1 - Aircraft\Savarankiskas1\obj\Debug\net7.0\refint\Savarankiskas1.dll
+C:\Users\Darius\Desktop\pr kursai\c#2\Savarankiskas1 - Aircraft\Savarankiskas1\obj\Debug\net7.0\Savarankiskas1.pdb
+C:\Users\Darius\Desktop\pr kursai\c#2\Savarankiskas1 - Aircraft\Savarankiskas1\obj\Debug\net7.0\Savarankiskas1.genruntimeconfig.cache
+C:\Users\Darius\Desktop\pr kursai\c#2\Savarankiskas1 - Aircraft\Savarankiskas1\obj\Debug\net7.0\ref\Savarankiskas1.dll

@@ -1,0 +1,15 @@
+C:\Users\Darius\Desktop\pr kursai\c#2\Savarankiskas2-Varteliai\Savarankiskas2-Varteliai\bin\Debug\net7.0\Savarankiskas2-Varteliai.exe
+C:\Users\Darius\Desktop\pr kursai\c#2\Savarankiskas2-Varteliai\Savarankiskas2-Varteliai\bin\Debug\net7.0\Savarankiskas2-Varteliai.deps.json
+C:\Users\Darius\Desktop\pr kursai\c#2\Savarankiskas2-Varteliai\Savarankiskas2-Varteliai\bin\Debug\net7.0\Savarankiskas2-Varteliai.runtimeconfig.json
+C:\Users\Darius\Desktop\pr kursai\c#2\Savarankiskas2-Varteliai\Savarankiskas2-Varteliai\bin\Debug\net7.0\Savarankiskas2-Varteliai.dll
+C:\Users\Darius\Desktop\pr kursai\c#2\Savarankiskas2-Varteliai\Savarankiskas2-Varteliai\bin\Debug\net7.0\Savarankiskas2-Varteliai.pdb
+C:\Users\Darius\Desktop\pr kursai\c#2\Savarankiskas2-Varteliai\Savarankiskas2-Varteliai\obj\Debug\net7.0\Savarankiskas2-Varteliai.csproj.AssemblyReference.cache
+C:\Users\Darius\Desktop\pr kursai\c#2\Savarankiskas2-Varteliai\Savarankiskas2-Varteliai\obj\Debug\net7.0\Savarankiskas2-Varteliai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darius\Desktop\pr kursai\c#2\Savarankiskas2-Varteliai\Savarankiskas2-Varteliai\obj\Debug\net7.0\Savarankiskas2-Varteliai.AssemblyInfoInputs.cache
+C:\Users\Darius\Desktop\pr kursai\c#2\Savarankiskas2-Varteliai\Savarankiskas2-Varteliai\obj\Debug\net7.0\Savarankiskas2-Varteliai.AssemblyInfo.cs
+C:\Users\Darius\Desktop\pr kursai\c#2\Savarankiskas2-Varteliai\Savarankiskas2-Varteliai\obj\Debug\net7.0\Savarankiskas2-Varteliai.csproj.CoreCompileInputs.cache
+C:\Users\Darius\Desktop\pr kursai\c#2\Savarankiskas2-Varteliai\Savarankiskas2-Varteliai\obj\Debug\net7.0\Savarankiskas2-Varteliai.dll
+C:\Users\Darius\Desktop\pr kursai\c#2\Savarankiskas2-Varteliai\Savarankiskas2-Varteliai\obj\Debug\net7.0\refint\Savarankiskas2-Varteliai.dll
+C:\Users\Darius\Desktop\pr kursai\c#2\Savarankiskas2-Varteliai\Savarankiskas2-Varteliai\obj\Debug\net7.0\Savarankiskas2-Varteliai.pdb
+C:\Users\Darius\Desktop\pr kursai\c#2\Savarankiskas2-Varteliai\Savarankiskas2-Varteliai\obj\Debug\net7.0\Savarankiskas2-Varteliai.genruntimeconfig.cache
+C:\Users\Darius\Desktop\pr kursai\c#2\Savarankiskas2-Varteliai\Savarankiskas2-Varteliai\obj\Debug\net7.0\ref\Savarankiskas2-Varteliai.dll

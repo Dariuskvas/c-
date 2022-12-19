@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\dovil\\.nuget\\packages\\": {}
+    "C:\\Users\\Darius\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dovil\\source\\repos\\TicketingSystem\\TicketingSystem\\TicketingSystem.csproj",
+      "projectUniqueName": "C:\\Users\\Darius\\Desktop\\pr kursai\\c#2\\TicketingSystem - Teacher\\TicketingSystem\\TicketingSystem.csproj",
       "projectName": "TicketingSystem",
-      "projectPath": "C:\\Users\\dovil\\source\\repos\\TicketingSystem\\TicketingSystem\\TicketingSystem.csproj",
-      "packagesPath": "C:\\Users\\dovil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dovil\\source\\repos\\TicketingSystem\\TicketingSystem\\obj\\",
+      "projectPath": "C:\\Users\\Darius\\Desktop\\pr kursai\\c#2\\TicketingSystem - Teacher\\TicketingSystem\\TicketingSystem.csproj",
+      "packagesPath": "C:\\Users\\Darius\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Darius\\Desktop\\pr kursai\\c#2\\TicketingSystem - Teacher\\TicketingSystem\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\dovil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Darius\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

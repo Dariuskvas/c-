@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Darius\\Desktop\\pr kursai\\prkursai-1\\C Sharp\\Pamoka2\\Pamoka2\\Pamoka2.csproj": {}
+    "C:\\Users\\Darius\\Desktop\\pr kursai\\c#2\\Pamoka2\\Pamoka2\\Pamoka2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Darius\\Desktop\\pr kursai\\prkursai-1\\C Sharp\\Pamoka2\\Pamoka2\\Pamoka2.csproj": {
+    "C:\\Users\\Darius\\Desktop\\pr kursai\\c#2\\Pamoka2\\Pamoka2\\Pamoka2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Darius\\Desktop\\pr kursai\\prkursai-1\\C Sharp\\Pamoka2\\Pamoka2\\Pamoka2.csproj",
+        "projectUniqueName": "C:\\Users\\Darius\\Desktop\\pr kursai\\c#2\\Pamoka2\\Pamoka2\\Pamoka2.csproj",
         "projectName": "Pamoka2",
-        "projectPath": "C:\\Users\\Darius\\Desktop\\pr kursai\\prkursai-1\\C Sharp\\Pamoka2\\Pamoka2\\Pamoka2.csproj",
+        "projectPath": "C:\\Users\\Darius\\Desktop\\pr kursai\\c#2\\Pamoka2\\Pamoka2\\Pamoka2.csproj",
         "packagesPath": "C:\\Users\\Darius\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Darius\\Desktop\\pr kursai\\prkursai-1\\C Sharp\\Pamoka2\\Pamoka2\\obj\\",
+        "outputPath": "C:\\Users\\Darius\\Desktop\\pr kursai\\c#2\\Pamoka2\\Pamoka2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Darius\\AppData\\Roaming\\NuGet\\NuGet.Config",

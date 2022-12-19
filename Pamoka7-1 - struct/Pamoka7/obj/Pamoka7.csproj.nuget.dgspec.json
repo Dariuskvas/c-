@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Darius\\Desktop\\pr kursai\\prkursai-1\\C Sharp\\Pamoka7-1 - struct\\Pamoka7\\Pamoka7.csproj": {}
+    "C:\\Users\\Darius\\Desktop\\pr kursai\\c#2\\Pamoka7-1 - struct\\Pamoka7\\Pamoka7.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Darius\\Desktop\\pr kursai\\prkursai-1\\C Sharp\\Pamoka7-1 - struct\\Pamoka7\\Pamoka7.csproj": {
+    "C:\\Users\\Darius\\Desktop\\pr kursai\\c#2\\Pamoka7-1 - struct\\Pamoka7\\Pamoka7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Darius\\Desktop\\pr kursai\\prkursai-1\\C Sharp\\Pamoka7-1 - struct\\Pamoka7\\Pamoka7.csproj",
+        "projectUniqueName": "C:\\Users\\Darius\\Desktop\\pr kursai\\c#2\\Pamoka7-1 - struct\\Pamoka7\\Pamoka7.csproj",
         "projectName": "Pamoka7",
-        "projectPath": "C:\\Users\\Darius\\Desktop\\pr kursai\\prkursai-1\\C Sharp\\Pamoka7-1 - struct\\Pamoka7\\Pamoka7.csproj",
+        "projectPath": "C:\\Users\\Darius\\Desktop\\pr kursai\\c#2\\Pamoka7-1 - struct\\Pamoka7\\Pamoka7.csproj",
         "packagesPath": "C:\\Users\\Darius\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Darius\\Desktop\\pr kursai\\prkursai-1\\C Sharp\\Pamoka7-1 - struct\\Pamoka7\\obj\\",
+        "outputPath": "C:\\Users\\Darius\\Desktop\\pr kursai\\c#2\\Pamoka7-1 - struct\\Pamoka7\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Darius\\AppData\\Roaming\\NuGet\\NuGet.Config",

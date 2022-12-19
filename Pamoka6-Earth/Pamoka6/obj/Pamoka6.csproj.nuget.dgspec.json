@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Darius\\Desktop\\pr kursai\\prkursai-1\\C Sharp\\Pamoka6-Earth\\Pamoka6\\Pamoka6.csproj": {}
+    "C:\\Users\\Darius\\Desktop\\pr kursai\\c#2\\Pamoka6-Earth\\Pamoka6\\Pamoka6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Darius\\Desktop\\pr kursai\\prkursai-1\\C Sharp\\Pamoka6-Earth\\Pamoka6\\Pamoka6.csproj": {
+    "C:\\Users\\Darius\\Desktop\\pr kursai\\c#2\\Pamoka6-Earth\\Pamoka6\\Pamoka6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Darius\\Desktop\\pr kursai\\prkursai-1\\C Sharp\\Pamoka6-Earth\\Pamoka6\\Pamoka6.csproj",
+        "projectUniqueName": "C:\\Users\\Darius\\Desktop\\pr kursai\\c#2\\Pamoka6-Earth\\Pamoka6\\Pamoka6.csproj",
         "projectName": "Pamoka6",
-        "projectPath": "C:\\Users\\Darius\\Desktop\\pr kursai\\prkursai-1\\C Sharp\\Pamoka6-Earth\\Pamoka6\\Pamoka6.csproj",
+        "projectPath": "C:\\Users\\Darius\\Desktop\\pr kursai\\c#2\\Pamoka6-Earth\\Pamoka6\\Pamoka6.csproj",
         "packagesPath": "C:\\Users\\Darius\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Darius\\Desktop\\pr kursai\\prkursai-1\\C Sharp\\Pamoka6-Earth\\Pamoka6\\obj\\",
+        "outputPath": "C:\\Users\\Darius\\Desktop\\pr kursai\\c#2\\Pamoka6-Earth\\Pamoka6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Darius\\AppData\\Roaming\\NuGet\\NuGet.Config",

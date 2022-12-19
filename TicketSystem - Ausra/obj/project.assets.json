@@ -8,26 +8,27 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\lpaul\\.nuget\\packages\\": {}
+    "C:\\Users\\Darius\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\develop\\studies\\1st_period\\C#\\TicketSystem\\TicketSystem.csproj",
+      "projectUniqueName": "C:\\Users\\Darius\\Desktop\\pr kursai\\c#2\\TicketSystem - Ausra\\TicketSystem.csproj",
       "projectName": "TicketSystem",
-      "projectPath": "C:\\develop\\studies\\1st_period\\C#\\TicketSystem\\TicketSystem.csproj",
-      "packagesPath": "C:\\Users\\lpaul\\.nuget\\packages\\",
-      "outputPath": "C:\\develop\\studies\\1st_period\\C#\\TicketSystem\\obj\\",
+      "projectPath": "C:\\Users\\Darius\\Desktop\\pr kursai\\c#2\\TicketSystem - Ausra\\TicketSystem.csproj",
+      "packagesPath": "C:\\Users\\Darius\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Darius\\Desktop\\pr kursai\\c#2\\TicketSystem - Ausra\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\lpaul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Darius\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {

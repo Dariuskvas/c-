@@ -16,7 +16,6 @@ namespace Savarankiskas1
             foreach (var countryInfo in lineCountries)
             {
                 string[] valueOfCountry = countryInfo.Split(',');
-
                 Country country = new Country()
                 {
                     countryName= valueOfCountry[0],
